@@ -18,5 +18,7 @@ git commit -m 'message' [It will commit the change and take a screen short of a 
 git log
 
 #for delete something for log
-git 
+git reset [commit number of lower commit]
+
+
 
