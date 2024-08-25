@@ -20,5 +20,13 @@ git log
 #for delete something for log
 git reset [commit number of lower commit]
 
+# for save something with out commit 
+git stash [This command will remove all change to last commit file]
+
+#for call back all deleted iteams 
+git stash pop [This will call again delete iteams that delete by git stash]
+
+#for delete the stash data 
+git stash clear [it will clean all background data from background]
 
 
